@@ -1,5 +1,4 @@
 # MY-ASSIGNMENT
- **KALENDER DIGITAL**
 <p align="center">
   <img src="https://github.com/arvin-prakasa-wijaya/MY-ASSIGNMENT/blob/main/VISUAL%20CODE.jpg" width="1000"/>
 </p>
@@ -21,7 +20,7 @@
   
 </div>
 
-# KODE PROGRAM
+# KALENDER DIGITAL
 ```python
 print("="*51)
 print("MASUKKAN TANGGAL UNTUK CEK HARI DAN  TAHUN KABISAT.")
